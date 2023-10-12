@@ -1,0 +1,274 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.6)  12 OCT 2023 10:56
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**main
+(./main.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\c@figure=\count187
+\c@table=\count188
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (./calendar.sty
+Package: calendar 2009/04/24LaTeX2e class file `calendar' v3.1
+
+'calendar' style 3.12009/04/24.
+Created by Evan Sultanik
+****** Bugs/comments/suggestions/technicalities to Evan Sultanik -- evan@sultanik.com ******
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen141
+\ar@mcellbox=\box51
+\extrarowheight=\dimen142
+\NC@list=\toks16
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box52
+)
+\TX@col@width=\dimen143
+\TX@old@table=\dimen144
+\TX@old@col=\dimen145
+\TX@target=\dimen146
+\TX@delta=\dimen147
+\TX@cols=\count189
+\TX@ftn=\toks17
+)
+\@currentdaynum=\count190
+\c@calendardate=\count191
+\StartingDayNumber=\count192
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen148
+\Gm@wd@mp=\dimen149
+\Gm@odd@mp=\dimen150
+\Gm@even@mp=\dimen151
+\Gm@layoutwidth=\dimen152
+\Gm@layoutheight=\dimen153
+\Gm@layouthoffset=\dimen154
+\Gm@layoutvoffset=\dimen155
+\Gm@dimlist=\toks19
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2023-01-16 L3 backend support: XeTeX
+\g__graphics_track_int=\count196
+\l__pdf_internal_box=\box53
+\g__pdf_backend_object_int=\count197
+\g__pdf_backend_annotation_int=\count198
+\g__pdf_backend_link_int=\count199
+) (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 28.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: landscape 
+* h-part:(L,W,R)=(36.135pt, 772.77686pt, 36.135pt)
+* v-part:(T,H,B)=(36.135pt, 525.23788pt, 36.135pt)
+* \paperwidth=845.04684pt
+* \paperheight=597.50787pt
+* \textwidth=772.77686pt
+* \textheight=525.23788pt
+* \oddsidemargin=-36.135pt
+* \evensidemargin=-36.135pt
+* \topmargin=-73.135pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=144.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\@calendarwidth=\dimen156
+\@currday=\count266
+\@numdays=\count267
+
+Overfull \hbox (2.72147pt too wide) in paragraph at lines 123--123
+ \TU/lmr/m/it/12 10
+ []
+
+
+Overfull \hbox (2.20546pt too wide) in paragraph at lines 123--123
+ \TU/lmr/m/it/12 11
+ []
+
+
+Overfull \hbox (2.70946pt too wide) in paragraph at lines 123--123
+ \TU/lmr/m/it/12 12
+ []
+
+
+Overfull \hbox (2.84146pt too wide) in paragraph at lines 123--123
+ \TU/lmr/m/it/12 13
+ []
+
+
+Overfull \hbox (2.20546pt too wide) in paragraph at lines 123--123
+ \TU/lmr/m/it/12 14
+ []
+
+
+Overfull \hbox (2.90146pt too wide) in paragraph at lines 123--123
+ \TU/lmr/m/it/12 15
+ []
+
+
+Overfull \hbox (2.90146pt too wide) in paragraph at lines 123--123
+ \TU/lmr/m/it/12 16
+ []
+
+
+Overfull \hbox (3.56146pt too wide) in paragraph at lines 123--123
+ \TU/lmr/m/it/12 17
+ []
+
+
+Overfull \hbox (2.73346pt too wide) in paragraph at lines 123--123
+ \TU/lmr/m/it/12 18
+ []
+
+
+Overfull \hbox (2.70946pt too wide) in paragraph at lines 123--123
+ \TU/lmr/m/it/12 19
+ []
+
+
+Overfull \hbox (2.72147pt too wide) in paragraph at lines 123--123
+ \TU/lmr/m/it/12 20
+ []
+
+
+Overfull \hbox (2.20546pt too wide) in paragraph at lines 123--123
+ \TU/lmr/m/it/12 21
+ []
+
+
+Overfull \hbox (2.70946pt too wide) in paragraph at lines 123--123
+ \TU/lmr/m/it/12 22
+ []
+
+
+Overfull \hbox (2.84146pt too wide) in paragraph at lines 123--123
+ \TU/lmr/m/it/12 23
+ []
+
+
+Overfull \hbox (2.20546pt too wide) in paragraph at lines 123--123
+ \TU/lmr/m/it/12 24
+ []
+
+
+Overfull \hbox (2.90146pt too wide) in paragraph at lines 123--123
+ \TU/lmr/m/it/12 25
+ []
+
+
+Overfull \hbox (2.90146pt too wide) in paragraph at lines 123--123
+ \TU/lmr/m/it/12 26
+ []
+
+
+Overfull \hbox (3.56146pt too wide) in paragraph at lines 123--123
+ \TU/lmr/m/it/12 27
+ []
+
+
+Overfull \hbox (2.73346pt too wide) in paragraph at lines 123--123
+ \TU/lmr/m/it/12 28
+ []
+
+
+Overfull \hbox (2.70946pt too wide) in paragraph at lines 123--123
+ \TU/lmr/m/it/12 29
+ []
+
+
+Overfull \hbox (2.72147pt too wide) in paragraph at lines 123--123
+ \TU/lmr/m/it/12 30
+ []
+
+
+Overfull \hbox (2.20546pt too wide) in paragraph at lines 123--123
+ \TU/lmr/m/it/12 31
+ []
+
+
+Overfull \hbox (18.0pt too wide) in paragraph at lines 123--124
+[][] 
+ []
+
+[1
+
+]
+Overfull \vbox (105.17537pt too high) has occurred while \output is active []
+
+ [2] (./main.aux) ) 
+Here is how much of TeX's memory you used:
+ 1279 strings out of 476683
+ 22843 string characters out of 5804048
+ 1859018 words of memory out of 5000000
+ 21564 multiletter control sequences out of 15000+600000
+ 515071 words of font info for 47 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 55i,10n,62p,272b,273s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on main.pdf (2 pages).
