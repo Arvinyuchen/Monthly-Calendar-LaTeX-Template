@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.6)  12 OCT 2023 10:56
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.6)  17 OCT 2023 11:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -142,133 +142,133 @@ LaTeX Font Info:    ... okay on input line 28.
 \@currday=\count266
 \@numdays=\count267
 
-Overfull \hbox (2.72147pt too wide) in paragraph at lines 123--123
+Overfull \hbox (2.72147pt too wide) in paragraph at lines 131--131
  \TU/lmr/m/it/12 10
  []
 
 
-Overfull \hbox (2.20546pt too wide) in paragraph at lines 123--123
+Overfull \hbox (2.20546pt too wide) in paragraph at lines 131--131
  \TU/lmr/m/it/12 11
  []
 
 
-Overfull \hbox (2.70946pt too wide) in paragraph at lines 123--123
+Overfull \hbox (2.70946pt too wide) in paragraph at lines 131--131
  \TU/lmr/m/it/12 12
  []
 
 
-Overfull \hbox (2.84146pt too wide) in paragraph at lines 123--123
+Overfull \hbox (2.84146pt too wide) in paragraph at lines 131--131
  \TU/lmr/m/it/12 13
  []
 
 
-Overfull \hbox (2.20546pt too wide) in paragraph at lines 123--123
+Overfull \hbox (2.20546pt too wide) in paragraph at lines 131--131
  \TU/lmr/m/it/12 14
  []
 
 
-Overfull \hbox (2.90146pt too wide) in paragraph at lines 123--123
+Overfull \hbox (2.90146pt too wide) in paragraph at lines 131--131
  \TU/lmr/m/it/12 15
  []
 
 
-Overfull \hbox (2.90146pt too wide) in paragraph at lines 123--123
+Overfull \hbox (2.90146pt too wide) in paragraph at lines 131--131
  \TU/lmr/m/it/12 16
  []
 
 
-Overfull \hbox (3.56146pt too wide) in paragraph at lines 123--123
+Overfull \hbox (3.56146pt too wide) in paragraph at lines 131--131
  \TU/lmr/m/it/12 17
  []
 
 
-Overfull \hbox (2.73346pt too wide) in paragraph at lines 123--123
+Overfull \hbox (2.73346pt too wide) in paragraph at lines 131--131
  \TU/lmr/m/it/12 18
  []
 
 
-Overfull \hbox (2.70946pt too wide) in paragraph at lines 123--123
+Overfull \hbox (2.70946pt too wide) in paragraph at lines 131--131
  \TU/lmr/m/it/12 19
  []
 
 
-Overfull \hbox (2.72147pt too wide) in paragraph at lines 123--123
+Overfull \hbox (2.72147pt too wide) in paragraph at lines 131--131
  \TU/lmr/m/it/12 20
  []
 
 
-Overfull \hbox (2.20546pt too wide) in paragraph at lines 123--123
+Overfull \hbox (2.20546pt too wide) in paragraph at lines 131--131
  \TU/lmr/m/it/12 21
  []
 
 
-Overfull \hbox (2.70946pt too wide) in paragraph at lines 123--123
+Overfull \hbox (2.70946pt too wide) in paragraph at lines 131--131
  \TU/lmr/m/it/12 22
  []
 
 
-Overfull \hbox (2.84146pt too wide) in paragraph at lines 123--123
+Overfull \hbox (2.84146pt too wide) in paragraph at lines 131--131
  \TU/lmr/m/it/12 23
  []
 
 
-Overfull \hbox (2.20546pt too wide) in paragraph at lines 123--123
+Overfull \hbox (2.20546pt too wide) in paragraph at lines 131--131
  \TU/lmr/m/it/12 24
  []
 
 
-Overfull \hbox (2.90146pt too wide) in paragraph at lines 123--123
+Overfull \hbox (2.90146pt too wide) in paragraph at lines 131--131
  \TU/lmr/m/it/12 25
  []
 
 
-Overfull \hbox (2.90146pt too wide) in paragraph at lines 123--123
+Overfull \hbox (2.90146pt too wide) in paragraph at lines 131--131
  \TU/lmr/m/it/12 26
  []
 
 
-Overfull \hbox (3.56146pt too wide) in paragraph at lines 123--123
+Overfull \hbox (3.56146pt too wide) in paragraph at lines 131--131
  \TU/lmr/m/it/12 27
  []
 
 
-Overfull \hbox (2.73346pt too wide) in paragraph at lines 123--123
+Overfull \hbox (2.73346pt too wide) in paragraph at lines 131--131
  \TU/lmr/m/it/12 28
  []
 
 
-Overfull \hbox (2.70946pt too wide) in paragraph at lines 123--123
+Overfull \hbox (2.70946pt too wide) in paragraph at lines 131--131
  \TU/lmr/m/it/12 29
  []
 
 
-Overfull \hbox (2.72147pt too wide) in paragraph at lines 123--123
+Overfull \hbox (2.72147pt too wide) in paragraph at lines 131--131
  \TU/lmr/m/it/12 30
  []
 
 
-Overfull \hbox (2.20546pt too wide) in paragraph at lines 123--123
+Overfull \hbox (2.20546pt too wide) in paragraph at lines 131--131
  \TU/lmr/m/it/12 31
  []
 
 
-Overfull \hbox (18.0pt too wide) in paragraph at lines 123--124
+Overfull \hbox (18.0pt too wide) in paragraph at lines 131--132
 [][] 
  []
 
 [1
 
 ]
-Overfull \vbox (105.17537pt too high) has occurred while \output is active []
+Overfull \vbox (60.49158pt too high) has occurred while \output is active []
 
  [2] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 1279 strings out of 476683
- 22843 string characters out of 5804048
- 1859018 words of memory out of 5000000
- 21564 multiletter control sequences out of 15000+600000
- 515071 words of font info for 47 fonts, out of 8000000 for 9000
+ 1285 strings out of 476683
+ 23005 string characters out of 5804048
+ 1862018 words of memory out of 5000000
+ 21566 multiletter control sequences out of 15000+600000
+ 515087 words of font info for 49 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 55i,10n,62p,272b,273s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 55i,10n,62p,272b,293s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (2 pages).
